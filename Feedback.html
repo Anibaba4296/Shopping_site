@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="Feedback.css">
+    <title>Survey page</title>
+    <script type="text/javascript">
+        function SayReset() {
+            alert("Reset response")
+        }
+    </script>
+</head>
+
+<body>
+    <header>
+
+        <nav>
+            <div>
+                <img src="LogoSite.jpg" style="width:130px ; border-radius: 50%;">
+            </div>
+            <div class="menu">
+                <a href="index.html">Home</a>
+                <a href="#aboutus">About Us</a>
+                <a href="Feedback.html">Feedback</a>
+                <a href="#">Help Desk</a>
+            </div>
+            <div class="login">
+                <a href="loginPage.html">Register/Login</a>
+            </div>
+        </nav>
+        <center>
+            <h1>Share us you experince</h1>
+        </center>
+    </header>
+    <main>
+        <center>
+            <div style="padding: 5px;background-color:aqua;width:500px">
+                <form action="">
+                    <span>Enter your name : 
+                        <input type="text" name="CustomerName" maxlength="35" placeholder="Name" required></span><br><br>
+                    <span>Customer Id : 
+                        <input type="number" name="CustomerName" maxlength="35" placeholder="Cstmr_Id" required></span><br><br>
+                    <span>Gender : 
+                        <input type="radio" id="male" name="Gender" value="male" class="zoom">
+                        <label for="male" style="font-size: 30px;">&#128104;</label>
+                        <input type="radio" id="female" name="Gender" value="female" class="zoom" >
+                        <label for="female" style="font-size: 30px;">&#128105;</label>
+                        <input type="radio" id="others" name="Gender" value="Others" class="zoom">
+                        <label for="others">Others</label></span><br><br>
+                    <fieldset style="width:390px;">
+                        <legend style="font-size: 20px;">Rate our service</legend>
+                        <span>
+                            <input type="radio" id="1" name="rateUs" value="1" required class="zoom">
+                            <label for="1" style="font-size: 30px;">&#128534;</label>
+                            <input type="radio" id="2" name="rateUs" value="2" required class="zoom">
+                            <label for="2"style="font-size: 30px;">&#128532;</label>
+                            <input type="radio" id="3" name="rateUs" value="3" required class="zoom">
+                            <label for="3"style="font-size: 30px;">&#128529;        </label>
+                            <input type="radio" id="4" name="rateUs" value="4" required class="zoom">
+                            <label for="4"style="font-size: 30px;">&#128515;        </label>
+                            <input type="radio" id="5" name="rateUs" value="5" required class="zoom">
+                            <label for="5" style="font-size: 30px;">&#128519;    </label>
+                    </span>
+                    </fieldset><br>
+                    <span><textarea name="Suggestion" placeholder="Suggest us" style="width: 350px; height:150px"></textarea></span><br><span>
+            <input type="submit" name="Submit" >
+            <input type="reset" name="Reset" onclick="SayReset()"></span>
+                </form>
+            </div>
+        </center>
+    </main>
+    <footer>
+        <div style="float:left;padding:0px 0px 0px 30px;">
+            <fieldset>
+                <legend>Contact Us</legend><i class="material-icons">&#xe551;
+        </i><a href="tel:+91-8847633594">+91-8847633594</a><br><i class="material-icons">&#xe0be;
+        </i><a href="mailto:aniketkumar4296@gmail.com">aniketkumar4296@gmail.com</a><br>
+                </i>
+            </fieldset>
+        </div>
+        <br>
+        <div style="width:900px;">
+            <center><b style="font-size: 20px;">Social media handles</b></center>
+            <a href="https://www.linkedin.com/in/aniket-kumar-50a9601b6/"><img src="LinkedIn-Symbole.png" style="height: 80px; padding:0px 0px 0px 50px;" class="zoom"></a>
+            <a href="https://www.instagram.com/regius__dvlpr_2.0/"><img src="Instagram-Symbole.png" style="height: 80px;padding:0px 0px 0px 50px;" class="zoom"></a>
+            <a href="https://twitter.com/home">
+                <img src="twitter-bird-symbols-png-logo-0.png" style="height:90px;padding:0px 0px 0px 50px;" class="zoom"> </a>
+        </div>
+    </footer>
+</body>
+
+</html>

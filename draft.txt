@@ -1,0 +1,51 @@
+<ol>
+        <li>Amazon ==></li>
+        <a href="https://www.amazon.in/#">
+            <img src="download.png" title="Amazon"></a>
+        This website needs no introduction, and it is the king of marketplaces. For some of its products, Amazon offers same-day or one-day delivery. No wonder it is considered to be the best online shopping website in India! Don’t forget to get your Amazon Prime
+        Video too!<br><br>
+        <hr>
+        <li>Flipkart ==></li>
+        <a href="https://www.flipkart.com/">
+            <img src="wsjWj2kj-1200x1200.png" title="Flipkart"></a>
+        Flipkart is a solution to all your daily needs. They have everything from clothing, appliances, sports equipment, furniture to electronics as well. With their amazing daily offers, they have gained huge success.<br><br>
+        <hr>
+        <li>Myntra ==></li>
+        <a href="https://www.myntra.com/">
+            <img src="download (3).png" title="Myntra"></a>
+        Myntra is the first name that comes to our minds when we think of online shopping. This top player sells everything from luxury goods to makeup, accessories, and clothing. Not to forget, exchanging or returning products is very easy for them. Be it saree
+        shopping or retro fashion, Myntra is one of the most popular websites.<br><br>
+        <hr>
+        <li>Ajio ==></li>
+        <a href="https://www.ajio.com/">
+            <img src="download (5).png" title="Ajio.com"></a>
+        In search of trendiest range of clothes? Ajio can be your one-stop-destination! It is one of the promising fashion e-commerce marketplaces in India that completely satisfies the wants of its users. Be it clothes, accessories or footwear, it offers the
+        most stylish products from various brands at an affordable price.<br><br>
+        <hr>
+        <li>Snapdeal ==></li>
+        <a href="https://www.snapdeal.com/">
+            <img src="snapdeal-best-online-shopping-sites.jpg" title="Snapdeal"></a>
+        Snapdeal is an online marketplace that has electronics, mobiles, men & women clothing, shoes, home & kitchen appliances at reasonable prices. They run daily offers where you can get good quality products at heavy discounts.Similar to Amazon Prime, they
+        have launched Snapdeal Gold.<br><br>
+        <hr>
+        <li>Nykaa ==></li>
+        <a href="https://www.nykaa.com/">
+            <img src="nykaa-best-online-shopping-sites.jpg" title="Nykaa.com"></a>
+        In a short span of time, Nykaa has managed to become the beauty destination of India. From soaps to luxury products, they have it all.They also have a blog and a Youtube channel that shares useful tips and tricks. It is a perfect place to shop for your
+        cosmetics, personal hygiene, grooming, toiletries, and skincare products, mostly at discounted prices.<br><br>
+        <hr>
+        <li>Paytm Mall ==></li>
+        <a href="https://paytmmall.com/">
+            <img src="download (4).png" title="Paytm Mall"></a>
+        Who can forget Paytm? Every Indian has used this application in desperate times during demonetization. It is a savior when you are out of cash, right? But it has much more to it. You can also shop at Paytm Mall. Paytm Mall has every product you can think
+        of. Electronics, furniture, clothing, and much more. You can also take flight and movie bookings there. The best part is that they have cashback offers going on all the time.<br><br>
+        <hr>
+        <li>TATA CLiQ ==></li>
+        <a href="https://www.tatacliq.com/">
+            <img src="tata-cliq-best-shopping.png" title="TATA CLiQ.com"></a>
+        TataCLiQ is one of the most popular online shopping websites right now, houses all kinds of products, right from clothing to electronics. They have all the top brands on their website, combined with the assurance of the Tata brand. It is difficult not
+        to take them as one of the best sites in the Indian market right now. The next time you want to purchase something, it is just a CLiQ away!<br><br>
+        <hr>
+        <hr>
+        <button onclick="document.location='next.html'">Next</button>
+    </ol>
